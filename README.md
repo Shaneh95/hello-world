@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everybody!
+
+Shaneh95 here, I like coffee, thst what I'm made of!
